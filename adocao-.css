@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+}
+p{
+    font-family: Andale Mono, monospace;
+    margin-top: 30px;
+    font-size: 25px;
+}
+h1{
+    font-family: Andale Mono, monospace;
+    color: mediumaquamarine;
+    font-size: 60px;
+}
+form{
+    font-family:Verdana, sans-serif, monospace;
+    text-align: center;
+    align-items: center;
+}
+input{
+    background-color: #ededed;
+    border-radius: 5px;
+    width: 250px;
+    height: 25px;
+    margin: 5px;
+    text-align: center;
+    align-content: center;
+}
+#botao1{
+    text-align: center;
+    margin-top: 80px;
+    padding: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    border-radius: 40px;
+    border: 1px solid mediumaquamarine;
+    background-color: mediumaquamarine;
+    color: white;
+    width: 150px;
+}
+#botao1:hover{
+    box-shadow: 1.5px 1.5px rgba(0, 0, 0, 0.575);
+}
+
+#botao2{
+    text-align: center;
+    margin-top: 10px;
+    padding: 13px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    border-radius: 40px;
+    border: 1px solid #757575;
+    background-color: #757575;
+    color: white;
+    width: 150px;
+}
+#botao2:hover{
+    box-shadow: 1.5px 1.5px rgba(0, 0, 0, 0.575);
+}

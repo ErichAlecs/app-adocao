@@ -8,4 +8,26 @@
 }
 body{
     text-align: center;
+    background-color: #ededed;
+}
+#tx-tooby{
+    color:  mediumaquamarine;
+    margin: 20px;
+}
+p{
+    font-family: Andale Mono, monospace;
+
+}
+button{
+    margin: 100px;
+    padding: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    border-radius: 40px;
+    border: 1px solid mediumaquamarine;
+    background-color: mediumaquamarine;
+    color: white;
+}
+button:hover{
+    box-shadow: 1.5px 1.5px rgba(0, 0, 0, 0.575);
 }

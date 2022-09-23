@@ -8,13 +8,6 @@
     box-shadow: 1.5px 1.5px rgba(0, 0, 0, 0.589);
     border-radius: 360px;
 }
-header{
-    background-color: mediumseagreen;
-    text-align: center;
-    font-family: Andale Mono, monospace;
-    height: 50px;
-    padding: 20px;
-}
 #subtitulo{
     text-align: center;
     margin: 50px;
