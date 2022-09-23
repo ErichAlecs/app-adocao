@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#tooby{
+    width: 350px;
+    height: 350px;
+}
+body{
+    text-align: center;
+}
